@@ -1,0 +1,64 @@
+/* Custom CSS for Portfolio */
+body {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    background-color: aquamarine;
+  }
+
+  #projects {
+    background-color: #ffb3d9;
+  }
+
+#contact input[type="text"],
+#contact input[type="email"],
+#contact textarea {
+  background-color: #ffb3ff;
+  border-radius: 15px;
+}
+
+#contact {
+    background-color: aquamarine
+}
+  .navbar {
+    background-color: #343a40 !important;
+  }
+  
+  .navbar-brand {
+    color: #ffffff;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #ffffff !important;
+  }
+  
+  .jumbotron {
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 100px 0;
+    margin-bottom: 0;
+  }
+  
+  .jumbotron h1 {
+    font-size: 3.5rem;
+  }
+  
+  .jumbotron p {
+    font-size: 1.5rem;
+  }
+  
+  .card {
+    background-color: #ffffff;
+    border: none;
+    transition: all 0.3s ease;
+  }
+  
+  .card:hover {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+  
+  footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 20px 0;
+  }
+  
